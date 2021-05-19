@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/Rohan99201/Rohan99201/main/Green Galaxy Robotic General Twitch Banner.mp4"/>
+<img align="center" src="https://raw.githubusercontent.com/Rohan99201/Rohan99201/main/rohan.png"/>
 <h1 align="center">Hi 👋, I'm Rohan Choubey</h1>
 <h3 align="center">Trying to Figure-Out Stuff!!</h3>
 
