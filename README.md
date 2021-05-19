@@ -1,5 +1,4 @@
 <img align="center" src="https://raw.githubusercontent.com/Rohan99201/Rohan99201/main/rohan.png"/>
-<h1 align="center">Hi 👋, I'm Rohan Choubey</h1>
 <h3 align="center">Trying to Figure-Out Stuff!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohan99201&label=Profile%20views&color=129e00&style=plastic" alt="Rohan99201" /> </p>
