@@ -1,31 +1,105 @@
-<img align="center" src="https://raw.githubusercontent.com/Rohan99201/Rohan99201/main/rohan.gif"/>
-<h3 align="center">Trying to Figure-Out Stuff!!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohan99201&label=Profile%20views&color=129e00&style=plastic" alt="Rohan99201" /> </p>
-<img align="right" alt="Coding" width="400" src="coding-freak (1).gif">
-
-<!-- - 👨‍💻 You can also check out my portfolio at [https://Rohan99201.github.io/](https://Rohan99201.github.io/) -->
-
-- 📫 How to reach me **rohanchoubey04@gmail.com**
-
-- ⚡ Fun fact **I think I am funny XD**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rohan-choubey-32167a1ab/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rohan choubey" height="30" width="40" /></a>
-<a href="https://instagram.com/rohannn_04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rohannn_04" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+<!-- Profile GIF Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rohan99201/Rohan99201/main/rohan.gif" alt="Banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h2 align="center">Hey there 👋, I'm Rohan Choubey</h2>
+<h4 align="center">🚀 Data & Analytics Enthusiast | Digital Analytics | Always trying to figure out stuff!</h4>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rohan99201&label=Profile%20views&color=129e00&style=plastic" alt="Profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohan99201&show_icons=true&locale=en&layout=compact" alt="Rohan99201" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohan99201&show_icons=true&locale=en" alt="Rohan99201" /></p>
+## 📫 About Me
 
+- 🎯 Focused on **Digital Analytics** | **Data Engineering** | **Tag Management**
+- 🧠 Currently diving deeper into **BigQuery, dbt, Fivetran, and Server-Side GTM**
+- 🌐 Portfolio: [rohan-webanalyst.framer.ai](https://rohan-webanalyst.framer.ai/)
+- 📬 Reach me at **rohanchoubey04@gmail.com**
+- ⚡ Fun fact: *I think I’m funny. XD*
 
+---
 
+## 🌐 Connect With Me
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/rohan-choubey/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://instagram.com/rohannn_04" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40"/>
+  </a>
+</p>
 
+---
+
+## 🛠️ Languages, Tools & Platforms
+
+### 🧩 Data & Tag Management
+<p>
+  <img src="https://www.vectorlogo.zone/logos/google_tag_manager/google_tag_manager-icon.svg" alt="GTM" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="GA4" width="40" />
+  <img src="https://www.tealium.com/wp-content/uploads/2020/11/cropped-Tealium_Favicon-180x180.png" alt="Tealium" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/onetrust/onetrust-icon.svg" alt="OneTrust" width="40"/>
+</p>
+
+### 📊 Data Visualization & BI
+<p>
+  <img src="https://www.vectorlogo.zone/logos/powerbi/powerbi-icon.svg" alt="Power BI" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/looker/looker-icon.svg" alt="Looker" width="40"/>
+</p>
+
+### ☁️ Data Engineering
+<p>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/36340142?s=200&v=4" alt="dbt" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/37969967?s=200&v=4" alt="Fivetran" width="40"/>
+</p>
+
+### 💻 Web & Dev Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"/>
+</p>
+
+### 🎨 Creative Tools
+<p>
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40"/>
+  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohan99201&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan99201&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🔭 Current Focus
+
+```yaml
+Learning:
+  - dbt (Data Build Tool)
+  - Fivetran Connectors
+  - GA4 Data Streams
+  - Server-side tagging via GTM
+
+Exploring:
+  - Consent Mode v2
+  - Predictive metrics in Looker Studio
