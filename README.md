@@ -49,7 +49,7 @@
 ### 📊 Data Visualization & BI
 <p>
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21~bgwhite.svg" alt="Power BI" width="40"/>
-  <img src="https://looker.com/assets/images/looker_logo_icon.svg](https://www.svgrepo.com/show/354012/looker-icon.svg" alt="Looker" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Looker.svg" alt="Looker" width="40"/>
 </p>
 
 ### ☁️ Data Engineering
