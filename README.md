@@ -49,7 +49,7 @@
 ### 📊 Data Visualization & BI
 <p>
   <img src="https://cdn.brandfetch.io/idcjff8gnD/w/2048/h/2048/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1752587750214" alt="Power BI" width="40"/>
-  <img src="https://cdn.brandfetch.io/idUlnE5zQC/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1668072999953" alt="Looker" width="40"/>
+  <img src="https://cdn.brandfetch.io/idUlnE5zQC/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668073000765" alt="Looker" width="40"/>
 </p>
 
 ### ☁️ Data Engineering
