@@ -40,7 +40,7 @@
 ### 🧩 Data & Tag Management
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/google-tag-manager.svg" alt="GTM" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Google_Analytics_Logo.svg" alt="GA4" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="GA4" width="40" />
   <img src="https://www.tealium.com/wp-content/uploads/2020/11/cropped-Tealium_Favicon-180x180.png" alt="Tealium" width="40"/>
   <img src="https://seeklogo.com/images/O/onetrust-logo-0A56B7F638-seeklogo.com.png" alt="OneTrust" width="40"/>
 </p>
