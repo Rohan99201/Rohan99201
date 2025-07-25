@@ -57,6 +57,7 @@
   <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="40"/>
   <img src="https://avatars.githubusercontent.com/u/36340142?s=200&v=4" alt="dbt" width="40"/>
   <img src="https://avatars.githubusercontent.com/u/37969967?s=200&v=4" alt="Fivetran" width="40"/>
+  <img src="https://cdn.brandfetch.io/idbpOFBgcc/w/398/h/398/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1748142702404" alt="Python" width="40 />
 </p>
 
 ### 💻 **Web & Dev Tools**
