@@ -41,8 +41,8 @@
 <p>
   <img src="https://toppng.com/uploads/preview/tag-manager-google-tag-manager-logo-11562938788z1xj4xxirj.png" alt="GTM" width="40" />
   <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="GA4" width="40" />
-  <img src="https://cdn.brandfetch.io/idqkGt3nZE/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1667833082271" alt="Tealium" width="40"/>
-  <img src="https://logotyp.us/file/onetrust.svg" alt="OneTrust" width="40"/>
+  <img src="https://cdn.brandfetch.io/idqkGt3nZE/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668080588709" alt="Tealium" width="40"/>
+  <img src="https://cdn.brandfetch.io/idViQdHzGq/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1675068641227" alt="OneTrust" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40"/>
 </p>
 
