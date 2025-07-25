@@ -39,16 +39,16 @@
 
 ### 🧩 Data & Tag Management
 <p>
-  <img src="https://www.vectorlogo.zone/logos/google_tag_manager/google_tag_manager-icon.svg" alt="GTM" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="GA4" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/google-tag-manager.svg" alt="GTM" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Google_Analytics_Logo.svg" alt="GA4" width="40" />
   <img src="https://www.tealium.com/wp-content/uploads/2020/11/cropped-Tealium_Favicon-180x180.png" alt="Tealium" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/onetrust/onetrust-icon.svg" alt="OneTrust" width="40"/>
+  <img src="https://seeklogo.com/images/O/onetrust-logo-0A56B7F638-seeklogo.com.png" alt="OneTrust" width="40"/>
 </p>
 
 ### 📊 Data Visualization & BI
 <p>
-  <img src="https://www.vectorlogo.zone/logos/powerbi/powerbi-icon.svg" alt="Power BI" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/looker/looker-icon.svg" alt="Looker" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" alt="Power BI" width="40"/>
+  <img src="https://looker.com/assets/images/looker_logo_icon.svg" alt="Looker" width="40"/>
 </p>
 
 ### ☁️ Data Engineering
