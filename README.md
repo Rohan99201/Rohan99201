@@ -48,8 +48,8 @@
 
 ### 📊 Data Visualization & BI
 <p>
-  <img src="https://datatako.com/wp-content/uploads/2024/02/power-bi-vector-logo.png" alt="Power BI" width="40"/>
-  <img src="https://www.marceldigital.com/media/0yncqj5k/looker-studio-logo-2.png?rmode=max&width=400&height=358" alt="Looker" width="40"/>
+  <img src="https://cdn.brandfetch.io/idcjff8gnD/w/2048/h/2048/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1752587750214" alt="Power BI" width="40"/>
+  <img src="https://cdn.brandfetch.io/idUlnE5zQC/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1668072999953" alt="Looker" width="40"/>
 </p>
 
 ### ☁️ Data Engineering
