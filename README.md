@@ -95,12 +95,4 @@
 ## 🔭 Current Focus
 
 ```yaml
-Learning:
-  - dbt (Data Build Tool)
-  - Fivetran Connectors
-  - GA4 Data Streams
-  - Server-side tagging via GTM
-
-Exploring:
-  - Consent Mode v2
-  - Predictive metrics in Looker Studio
+Learning !!
