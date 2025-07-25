@@ -39,7 +39,7 @@
 
 ### 🧩 Data & Tag Management
 <p>
-  <img src="https://images.seeklogo.com/logo-png/33/1/google-tag-manager-logo-png_seeklogo-337292.png" alt="GTM" width="40" />
+  <img src="https://toppng.com/uploads/preview/tag-manager-google-tag-manager-logo-11562938788z1xj4xxirj.png" alt="GTM" width="40" />
   <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="GA4" width="40" />
   <img src="https://images.seeklogo.com/logo-png/32/1/tealium-logo-png_seeklogo-323427.png" alt="Tealium" width="40"/>
   <img src="https://logotyp.us/file/onetrust.svg" alt="OneTrust" width="40"/>
