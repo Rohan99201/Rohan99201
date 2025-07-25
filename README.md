@@ -39,16 +39,16 @@
 
 ### 🧩 Data & Tag Management
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/google-tag-manager.svg" alt="GTM" width="40" />
+  <img src="https://makdigitaldesign.com/wp-content/uploads/2023/10/GTM-0.svg" alt="GTM" width="40" />
   <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="GA4" width="40" />
-  <img src="https://www.tealium.com/wp-content/uploads/2020/11/cropped-Tealium_Favicon-180x180.png" alt="Tealium" width="40"/>
-  <img src="https://seeklogo.com/images/O/onetrust-logo-0A56B7F638-seeklogo.com.png" alt="OneTrust" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Tealium_logo.svg" alt="Tealium" width="40"/>
+  <img src="https://logotyp.us/file/onetrust.svg" alt="OneTrust" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40"/>
 </p>
 
 ### 📊 Data Visualization & BI
 <p>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21~bgwhite.svg" alt="Power BI" width="40"/>
+  <img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022-small.png" alt="Power BI" width="40"/>
   <img src="https://www.marceldigital.com/media/0yncqj5k/looker-studio-logo-2.png?rmode=max&width=400&height=358" alt="Looker" width="40"/>
 </p>
 
