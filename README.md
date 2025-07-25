@@ -96,10 +96,4 @@
 ## 🔭 Current Focus
 
 ```yaml
-Learning:
-  - BigQuery
-  - dbt
-  - Fivetran
-  - Server-Side GTM
-  - Better UI/UX
-  - Python Automation
+Learning !!
