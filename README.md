@@ -41,15 +41,15 @@
 <p>
   <img src="https://toppng.com/uploads/preview/tag-manager-google-tag-manager-logo-11562938788z1xj4xxirj.png" alt="GTM" width="40" />
   <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="GA4" width="40" />
-  <img src="https://cdn.brandfetch.io/idqkGt3nZE/theme/dark/symbol.svg" alt="Tealium" width="40"/>
-  <img src="https://cdn.brandfetch.io/idViQdHzGq/theme/dark/icon.jpeg" alt="OneTrust" width="40"/>
+  <img src="https://cdn.brandfetch.io/idqkGt3nZE/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668080588709" alt="Tealium" width="40"/>
+  <img src="https://cdn.brandfetch.io/idViQdHzGq/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1675068641227" alt="OneTrust" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40"/>
 </p>
 
 ### 📊 **Data Visualization & BI**
 <p>
-  <img src="https://cdn.brandfetch.io/idcjff8gnD/theme/dark/icon.jpeg" alt="Power BI" width="40"/>
-  <img src="https://cdn.brandfetch.io/idUlnE5zQC/theme/dark/symbol.svg" alt="Looker" width="40"/>
+  <img src="https://cdn.brandfetch.io/idcjff8gnD/w/2048/h/2048/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1752587750214" alt="Power BI" width="40"/>
+  <img src="https://cdn.brandfetch.io/idUlnE5zQC/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668073000765" alt="Looker" width="40"/>
 </p>
 
 ### ☁️ **Data Engineering**
