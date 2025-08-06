@@ -16,7 +16,7 @@
 
 - 🎯 Focused on **Digital Analytics** | **Data Engineering** | **Tag Management**
 - 🧠 Currently diving deeper into **BigQuery**, **dbt**, **Fivetran**, and **Server-Side GTM**
-- 🌐 Portfolio: [**rohan-webanalyst.framer.ai**](https://rohandron.vercel.in/)
+- 🌐 Portfolio: [**rohandron.vercel.in**](https://rohandron.vercel.in/)
 - 📬 Reach me at: **rohanchoubey04@gmail.com**
 - ⚡ Fun fact: *I think I’m funny. XD*
 
